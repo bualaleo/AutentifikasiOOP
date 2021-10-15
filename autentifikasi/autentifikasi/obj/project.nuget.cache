@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TObp9ZO/4sD4r7IFRTW9UDFxUs5+2GZypoqFitFBi+hG5YHL2Lov20edq4tyb8FJlI58nwxw94TaJY5liIx41Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Buala Hulu\\source\\repos\\autentifikasi\\autentifikasi\\Autentifikasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Buala Hulu\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

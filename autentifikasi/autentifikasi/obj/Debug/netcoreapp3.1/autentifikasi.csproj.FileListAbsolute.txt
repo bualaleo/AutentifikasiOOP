@@ -1,0 +1,15 @@
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.exe
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.deps.json
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.runtimeconfig.json
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.runtimeconfig.dev.json
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.dll
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\autentifikasi.pdb
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.csproj.AssemblyReference.cache
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.AssemblyInfoInputs.cache
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.AssemblyInfo.cs
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.csproj.CoreCompileInputs.cache
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.dll
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.pdb
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\obj\Debug\netcoreapp3.1\autentifikasi.genruntimeconfig.cache
+C:\Users\Buala Hulu\source\repos\autentifikasi\autentifikasi\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
